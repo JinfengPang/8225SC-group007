@@ -1,4 +1,4 @@
-,latitude,longitude,subzone,region,monthly_rent
+index,latitude,longitude,subzone,region,monthly_rent
 0,1.344518,103.73863,149,4,1600
 1,1.330186,103.938717,8,1,2250
 2,1.332242,103.845643,128,0,1900
